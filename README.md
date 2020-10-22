@@ -8,3 +8,5 @@ There is a comprehensive walkthrough of the work in the Jupyter Notebook, outlin
 - Join the data
 - Produce the desired output
 - Conduct some lite analysis
+
+![alt_text](https://github.com/zachzazueta/Example-Data-Cleaning/blob/main/subplots.png)
